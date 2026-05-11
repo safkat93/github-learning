@@ -6,3 +6,6 @@ My goals:
 - Learn AI
 - Build energy analysis projects
 - Grow in technology 
+Makrdown
+## Learning Branches 
+I created my first Github branch
