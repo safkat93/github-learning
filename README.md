@@ -1,2 +1,8 @@
-# github-learning
-My first github learning repository
+Markdown
+# Welcome to My GitHub Journey 
+I am learning GitHub step by step
+My goals:
+- Learn GitHub
+- Learn AI
+- Build energy analysis projects
+- Grow in technology 
